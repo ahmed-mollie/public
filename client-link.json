@@ -1,9 +1,9 @@
 {
-    "id": "cl_JUQzExni62bwSvzGyEP7J",
+    "id": "cl_A7gop3qqedfASFDL9EP7J",
     "resource": "client-link",
     "_links": {
         "clientLink": {
-            "href": "https://my.mollie.localhost/dashboard/client-link/cl_JUQzExni62bwSvzGyEP7J",
+            "href": "https://my.mollie.localhost/dashboard/client-link/cl_A7gop3qqedfASFDL9EP7J",
             "type": "text/html"
         },
         "documentation": {
